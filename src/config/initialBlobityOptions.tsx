@@ -17,3 +17,5 @@ export const initialBlobityOptions = {
    radius: 4,
    magnetic: true,
 };
+
+// ideia vinda de https://github.com/victorcodess/folio-v1/blob/main/app/utils/BlobityConfig.tsx
