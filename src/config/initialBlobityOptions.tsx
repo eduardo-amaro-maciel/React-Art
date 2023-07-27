@@ -19,3 +19,4 @@ export const initialBlobityOptions = {
 };
 
 // ideia vinda de https://github.com/victorcodess/folio-v1/blob/main/app/utils/BlobityConfig.tsx
+// cursor de https://github.com/gmrchk/blobity
